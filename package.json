@@ -1,0 +1,22 @@
+{
+  "name": "prince-donkor-create-new-cli",
+  "version": "0.1.9",
+  "description": "Nodejs Project CLI Generator",
+  "bin": "bin/cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prince donkor",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "cross-spawn": "^6.0.5",
+    "dashify": "^2.0.0",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.4.1",
+    "nodegit": "^0.24.3",
+    "shelljs": "^0.8.3"
+  }
+}
